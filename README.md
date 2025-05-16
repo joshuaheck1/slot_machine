@@ -4,7 +4,7 @@
 </p>
 
 
-<h1>Python Slot Machine</h1>
+<h1>🐍 Python Slot Machine</h1>
 
 <p> I present to you my first Python project! This is the first of many Python projects to come as I dive in head first to learn this highly versatile programming language. The project is a simple text-base slot machine. I added some minor flair and cleaned up the spacing to make it a littler easier on the eyes. As I learn more about Python, I'll do another run at this project to see how far I can push it.
 <br />
@@ -21,4 +21,4 @@
 
 <h2>Conclusion</h2>
 
-<p> This project helped spark my interest and activate the drive to learn Python. I went from print("Hello World!!") to a </p>
+<p> This project helped spark my interest and activate the drive to learn Python. I went from print("Hello World!!") to a defining functions, spinnig while loops, and using statements like if and else! Think I'm hooked... 🤔 🤣  As always, Thanks for checking out this project and we'll see on the next one! 😎</p>
