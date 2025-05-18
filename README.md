@@ -3,8 +3,9 @@
 
 </p>
 
-
-<h1>🐍 Python Slot Machine</h1>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></div>
+  <h1>Python Slot Machine</h1>
 
 <p> I present to you my first Python project! This is the first of many Python projects to come as I dive in head first to learn this highly versatile programming language. The project is a simple text-base slot machine. I added some minor flair and cleaned up the spacing to make it a littler easier on the eyes. As I learn more about Python, I'll do another run at this project to see how far I can push it.
 <br />
